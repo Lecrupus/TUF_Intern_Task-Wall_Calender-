@@ -311,11 +311,6 @@ const BasketballCalendar = () => {
                 </div>
               </div>
             </div>
-            
-            <div className={`mt-8 pt-4 border-t flex justify-between items-center text-[7px] font-bold uppercase tracking-[0.4em] shrink-0 ${isDarkMode ? 'border-zinc-800 text-zinc-700' : 'border-zinc-50 text-zinc-300'}`}>
-              <span>Basketball Anthology • 2026 Indian Holidays</span>
-              <span>Ref: 2026-V11</span>
-            </div>
           </div>
         </div>
       </div>
